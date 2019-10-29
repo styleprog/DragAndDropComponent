@@ -1,0 +1,11 @@
+
+.header {
+    /* Header */
+    max-height: 250px;
+    background: url("../images/LD.jpg") center  no-repeat; background-size: 100%;
+    /* Navigation */
+    width: 100%;
+    height: 45px;
+
+}
+

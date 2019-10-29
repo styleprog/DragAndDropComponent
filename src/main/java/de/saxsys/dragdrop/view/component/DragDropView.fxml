@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane  fx:id="dropTarget" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.1"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="de.saxsys.dragdrop.view.component.DragDropView">
+    <Label layoutX="246.0" layoutY="192.0" prefHeight="17.0" prefWidth="108.0"
+           text="%dragdropcomponent.info"/>
+</AnchorPane>
